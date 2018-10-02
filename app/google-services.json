@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "615279848556",
+    "firebase_url": "https://ttest-aaf0f.firebaseio.com",
+    "project_id": "ttest-aaf0f",
+    "storage_bucket": "ttest-aaf0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615279848556:android:ce422d8a7c4dd101",
+        "android_client_info": {
+          "package_name": "com.example.acer.test99"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615279848556-8kmtp8aeckj8g0iqhlmnhebmdisu15mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.test99",
+            "certificate_hash": "65b7f5820f4c0c197c5c0a96942771942b1962a3"
+          }
+        },
+        {
+          "client_id": "615279848556-7dt26aoh2s2356uusq5mkp6i2fmpop8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_QzJKSlUz3-HOdtyHMUEmQ9A7qI-WGA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615279848556-7dt26aoh2s2356uusq5mkp6i2fmpop8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615279848556:android:a831a1aecef50641",
+        "android_client_info": {
+          "package_name": "com.example.acer.testmon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615279848556-r7dg0ghsl5r532r5qfh07nnu43oh74mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.testmon",
+            "certificate_hash": "65b7f5820f4c0c197c5c0a96942771942b1962a3"
+          }
+        },
+        {
+          "client_id": "615279848556-7dt26aoh2s2356uusq5mkp6i2fmpop8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_QzJKSlUz3-HOdtyHMUEmQ9A7qI-WGA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615279848556-7dt26aoh2s2356uusq5mkp6i2fmpop8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615279848556:android:eeaec9205d21cb1d",
+        "android_client_info": {
+          "package_name": "com.example.android.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615279848556-7dt26aoh2s2356uusq5mkp6i2fmpop8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_QzJKSlUz3-HOdtyHMUEmQ9A7qI-WGA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615279848556:android:86cd4097378b6f99",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.testswipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615279848556-ciqcdeuht0q1nth4qo2698pn56iu1cvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.testswipe",
+            "certificate_hash": "45f438fc0dab718856baa658189a0115ca7f42f8"
+          }
+        },
+        {
+          "client_id": "615279848556-7dt26aoh2s2356uusq5mkp6i2fmpop8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_QzJKSlUz3-HOdtyHMUEmQ9A7qI-WGA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615279848556-7dt26aoh2s2356uusq5mkp6i2fmpop8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
